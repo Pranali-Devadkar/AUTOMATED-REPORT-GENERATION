@@ -36,7 +36,7 @@ This project demonstrates how to automatically generate a formatted PDF report f
 
 Install dependencies using:
 
-```bash
+bash
 pip install pandas fpdf
 
 
